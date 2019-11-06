@@ -5,3 +5,5 @@ print(series_ex)
 
 #print series by index'
 print(series_ex['월'])
+
+print(series_ex[series_ex >100])
