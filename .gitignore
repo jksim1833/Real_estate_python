@@ -19,3 +19,4 @@
 .byebug_history
 /.vscode
 /codes/.ipynb_checkpoints
+/.DS_Store
